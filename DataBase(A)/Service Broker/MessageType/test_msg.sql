@@ -1,0 +1,4 @@
+﻿CREATE MESSAGE TYPE [test_msg]
+    AUTHORIZATION [dbo]
+    VALIDATION = NONE;
+

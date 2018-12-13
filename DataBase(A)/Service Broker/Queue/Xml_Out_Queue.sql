@@ -1,0 +1,3 @@
+﻿CREATE QUEUE [dbo].[Xml_Out_Queue]
+    WITH ACTIVATION (STATUS = ON, PROCEDURE_NAME = [dbo].[P_Xml_Msg_Out], MAX_QUEUE_READERS = 1, EXECUTE AS N'dbo');
+

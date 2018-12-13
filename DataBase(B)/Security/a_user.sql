@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [a_user]
+    WITH PASSWORD = N'FhfwO}e>Jp$YazOvm6wgapvxmsFT7_&#$!~<xcsfnsl}=M$B', SID = 0xECF5A930E579EB48BC39D9DD60F6F9BF, DEFAULT_LANGUAGE = [русский];
+
